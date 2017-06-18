@@ -88,3 +88,6 @@ Packet supports [user state](https://help.packet.net/technical/infrastructure/us
 during system bringup, which enables the boot process to be more informative about the
 current state of the boot process once the kernel has loaded but before the
 system is ready for login.
+
+Packet supports metadata via the endpoint at https://metadata.packet.net/metadata available 
+from the host.
